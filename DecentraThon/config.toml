@@ -1,0 +1,8 @@
+[theme]
+# приближённая палитра «зелёный + золото»
+primaryColor = "#146b3a"            # зелёный (кнопки, акценты)
+backgroundColor = "#ffffff"         # фон
+secondaryBackgroundColor = "#f5f7f4" # карточки/панели
+textColor = "#10231a"               # тёмно-зелёный текст
+# необязательные:
+font = "sans serif"
